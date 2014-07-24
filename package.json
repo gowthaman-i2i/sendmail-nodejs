@@ -1,0 +1,27 @@
+{
+  "name": "sendmail-nodejs",
+  "version": "0.0.1",
+  "description": "Send mail using nodejs console application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gowthaman-i2i/sendmail-nodejs.git"
+  },
+  "keywords": [
+    "sendmail-nodejs",
+    "simplemail-using-nodejs"
+  ],
+  "author": "Gowthaman",
+  "license": "Free",
+  "bugs": {
+    "url": "https://github.com/gowthaman-i2i/sendmail-nodejs/issues"
+  },
+  "homepage": "https://github.com/gowthaman-i2i/sendmail-nodejs",
+  "dependencies" : {
+    "nodemailer": "latest",
+    "readline": "latest",
+  }
+}
